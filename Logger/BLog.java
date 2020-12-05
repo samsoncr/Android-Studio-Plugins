@@ -1,7 +1,7 @@
 package com.balsikandar.logger;
 
 import android.util.Log;
-
+//hi
 public final class BLog {
 
     private static boolean IS_LOGGING_ENABLED = false;
